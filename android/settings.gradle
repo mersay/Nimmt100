@@ -1,0 +1,3 @@
+rootProject.name = 'Nimmt100'
+
+include ':app'

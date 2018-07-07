@@ -1,0 +1,4 @@
+#Wed Jun 27 03:22:05 EDT 2018
+base.0=/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
