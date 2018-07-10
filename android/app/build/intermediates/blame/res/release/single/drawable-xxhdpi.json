@@ -4,12 +4,12 @@
         "source": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -86,6 +86,10 @@
     {
         "merged": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
     },
     {
         "merged": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png",

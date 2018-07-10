@@ -150,5 +150,9 @@
     {
         "merged": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png",
         "source": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/MercedesLo/Documents/dev/2018projects/nimmt100/Nimmt100/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
     }
 ]
