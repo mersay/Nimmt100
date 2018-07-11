@@ -49,7 +49,7 @@ export default class CountScreen extends React.Component {
 
   _renderItem = (num) => (<TouchableOpacity style={{marginVertical: 10, marginHorizontal:5}}
                                             onPress={()=> this._onPressItem(num)}>
-    <Text style={[styles.numberButton, styles.orange , {textDecorationLine: this.state.numIsDisabled[num]? 'line-through': 'none'}]}>{num.toString()}</Text>
+    <Text style={[styles.numberButton, {color: this.state.numIsDisabled[num]? 'grey' : '#f26f21'  , textDecorationLine: this.state.numIsDisabled[num]?  'line-through': 'none'}]}>{num.toString()}</Text>
   </TouchableOpacity>)
 
 
